@@ -21,7 +21,7 @@ Automation & Incident Response:
 
 Infrastructure as Code:
 
-- Deploy resources securely with AWS CloudFormation or Terraform, emphasizing least privilege and secure configurations.
+- Deploy resources securely with Terraform, emphasizing least privilege and secure configurations.
 
 Network Security:
 
@@ -38,7 +38,7 @@ Backend: AWS Lambda, Python for automation scripts.
 
 Frontend: React for a security dashboard with Amazon QuickSight integration for analytics.
 
-Automation: CI/CD with GitHub Actions or AWS CodePipeline.
+Automation: CI/CD with GitHub Actions.
 
 Monitoring: AWS CloudWatch, GuardDuty, Security Hub.
 
@@ -129,7 +129,7 @@ export default SecurityData;
 ```
 
 ## 5. Implement CI/CD Pipeline
-- Use GitHub Actions or AWS CodePipeline for automated deployments.
+- Use GitHub Actions for automated deployments.
 - Set up testing and security scanning in the pipeline.
 
 ### 5.1 GitHub Actions Sample
